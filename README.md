@@ -1,2 +1,2 @@
 # computer-vision
-CWs of Computer Vision
+Basic Algorithms of computer vision (FCNN, CNN, etc)
